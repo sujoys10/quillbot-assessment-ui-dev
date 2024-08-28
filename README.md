@@ -21,7 +21,7 @@ We've created a minimal design for you to follow.
 
 [Prototype](https://www.figma.com/proto/reE0SZpcntGfzQ5rUsOAPp/Exercise?node-id=116-3&starting-point-node-id=116%3A3&t=ERd62rKFUayEDGpv-1)
 
-You can use the design as a reference for desktop and try to make it pixel perfect. For mobile design, feel free to give it your own touch. We value a good user experience, so make sure the app is easy to use.
+Please refer the design for desktop and ensure the output is pixel perfect. For mobile design, feel free to give it your own touch. We value a good user experience, so make sure the app is easy to use.
 
 ## Requirements
 
@@ -35,7 +35,7 @@ Your application should meet the following requirements:
   - Please check the search box animation as well, by clicking on the search icon.
 - We recommend to use [MUI](https://mui.com/system/getting-started/) for styling.
 
-This assessment is not about building a perfect app. We are looking for candidates who can deliver production-ready features. We are interested in a polished final product, and how you approach the problem, structure code, and deliver solid features. Add comments to your code where you think it's necessary or when you should add more code to make it better.
+We are looking for candidates who can write clean, maintainable and scalable code. We are interested in a pixel perfect output and how you approach the problem, structure code, and deliver solid features. Add comments to your code where you think it's necessary or when you should add more code to make it better.
 
 ## Get started
 
