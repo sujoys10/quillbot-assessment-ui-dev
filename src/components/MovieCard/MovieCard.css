@@ -38,3 +38,13 @@
 .movie-actions button:hover {
   color: #1e90ff;
 }
+
+@media (max-width: 600px) {
+  .movie-card {
+    padding: 6px;
+  }
+
+  .movie-poster {
+    height: 140px;
+  }
+}
