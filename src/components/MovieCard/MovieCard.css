@@ -1,0 +1,40 @@
+.movie-card {
+  background: #394B61;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+  width: var(--card-width);
+}
+
+.movie-card p {
+  text-align: left;
+  margin: 8px 0px;
+}
+
+.movie-poster {
+  width: 100%;
+  border-radius: 8px;
+  height: 188px;
+}
+
+.movie-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.movie-actions button {
+  padding: 0;
+}
+
+.movie-actions button {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.movie-actions button:hover {
+  color: #1e90ff;
+}

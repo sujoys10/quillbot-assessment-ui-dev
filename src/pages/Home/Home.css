@@ -1,0 +1,22 @@
+.content {
+  padding: 48px;
+  flex: 1;
+  --card-width: 176px;
+}
+
+.content-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .content {
+    padding: 24px;
+  }
+
+  .content-header {
+    margin-top: 32px;
+  }
+}
